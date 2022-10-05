@@ -39,8 +39,9 @@ const About = () => {
 JavaScript Developer with knowledge in Coding and Designing. Skills in HTML, CSS, JavaScript and other languages as well. Passionate about approaching programming challenges from different angles and collaborating with others to create meaningful web applications. Excited to develop responsive websites.
 Fascinated by computer science fundamentals and breaking down a problem piece-by-piece to find a solution. My technical aptitude in cutting-edge web technologies, combined with adept problem -solving abilities and determination, make me a strong addition to any web developer team.
 Earned my certificate in full stack web development from UWA, where I honed my skills in Front end technologies and some Backend too.
-
 </p>
+
+<a href="#contact" className='btn btn-primary'> Let's Talk</a>
 
     </div>
 
